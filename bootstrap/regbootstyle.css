@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    padding: 50px;
+}
+
+a.hover{
+    color: red;
+    background-color: rgb(60, 255, 0);
+}
+
